@@ -1,0 +1,28 @@
+
+		DISPLAYING CAR DATA
+Name of the owners of the car:ffdfd
+Number of days rented:1
+Cost of borrowed car:1
+Car number is:545454
+The car company is:4f
+The car type is:
+The owners was not involved in any accident
+fine=0
+The total cost is:1000Rupees
+The total profit on car rent:1000Rupees
+
+The total profit on car rent:0Rupees
+
+		DISPLAYING CAR DATA
+Name of the owners of the car:ani
+Number of days rented:2
+Cost of borrowed car:500
+Car number is:454545454
+The car company is:honda
+The car type is:
+THE owners WAS INVOLVED IN AN ACCIDENT
+THE FINE IS:120 Rupees
+The total cost is:2120Rupees
+The total profit on car rent:2120Rupees
+
+The total profit on car rent:0Rupees

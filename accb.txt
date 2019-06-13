@@ -1,0 +1,14 @@
+
+DISPLAYING MOTORBIKE DATA
+Name of the owners of the Motorbike:hdfhfh
+Number of days rented:4
+Cost of borrowed motorbike:450
+Motorbike number is:554454
+The motorbike company is:honda
+The motorbike power is:250 cc
+The owners was not involved in any accident
+fine=0
+The total cost is:2000Rupees
+The total profit on motorbike rent: 2000Rupees
+
+The total profit on motorbike rent: 0Rupees
